@@ -1,0 +1,30 @@
+{
+  "domain": {
+    "status": ["Domain Status"],
+    "created": ["Creation Date", "Created on", "Registered on"],
+    "updated": ["Updated"],
+    "expiry": ["Registry Expiry Date", "Expires on", "Expiry date"],
+    "domainName": ["Domain Name"],
+    "registrar": ["Registrar", "Organization Name"]
+  },
+  "statusActiveKeywords": ["icann.org/epp", "ok"],
+  "statusPassiveKeywords": ["N/A", "No Object Found", "AVAILABLE"],
+  "cachedWhoisServers": {
+    "COM": "whois.verisign-grs.com",
+    "NET": "whois.verisign-grs.com",
+    "AI": "whois.nic.ai",
+    "ME": "whois.nic.me",
+    "INFO": "whois.nic.info",
+    "DEV": "whois.nic.google",
+    "SPACE": "whois.nic.space",
+    "BIZ": "whois.nic.biz",
+    "CLUB": "whois.nic.club",
+    "IT": "whois.nic.it",
+    "PRO": "whois.nic.pro",
+    "APP": "whois.nic.google",
+    "CO": "whois.nic.co",
+    "US": "whois.nic.us",
+    "ORG": "whois.publicinterestregistry.org",
+    "TR": "whois.trabis.gov.tr"
+  }
+}

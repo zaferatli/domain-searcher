@@ -1,0 +1,38 @@
+{
+	"name": "@zaferatli/domainchecker",
+	"version": "1.0.0",
+	"description": "Domain availablity checker",
+	"main": "index.js",
+	"types": "./index.d.ts",
+	"typings": "./index.d.ts",
+	"bin": {
+		"domainSearch": "./index.js"
+	},
+	"scripts": {
+		"test": "mocha -t 7000 -s 3000"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zaferatli/domainseacher.git"
+	},
+	"keywords": [
+		"domain",
+		"checker",
+		"whois",
+		"domain",
+		"search"
+	],
+	"author": "Zafer ATLI",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/zaferatli/domainseacher/issues"
+	},
+	"homepage": "https://github.com/zaferatli/domainseacher#readme",
+	"dependencies": {
+		"punycode": "^2.3.1"
+	},
+	"devDependencies": {
+		"mocha": "^10.5.0",
+		"sinon": "^18.0.0"
+	}
+}
